@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Kunalrana1226
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kunalrana1226/Kunalrana1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 I'm a Computer Science & Engineering Student
+🔭 I’m currently working on JU Query platform
+💬 Ask me about anything, I am happy to help
+🌱 I'm currently learning:
+Data Structures and Algorithms on LeetCode
+Tools and technologies from React ecosystem
+👯 Join my community if you're a tech enthusiast
+📬 How to reach me: kunalrana1226@gmail.com
+💪 This is where I write, code and solve problems:
